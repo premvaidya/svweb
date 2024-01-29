@@ -21,27 +21,27 @@ body{
     }
     @keyframes example{
         0%{
-          background-image: url(Image/1.jpg);
+          background-image: url(https://raw.githubusercontent.com/premvaidya/svweb/main/web%20site%20time%20pass/Image/1.jpg);
           background-repeat: no-repeat;
           background-size: cover;
         }
         25%{
-          background-image: url(image/2.jpg);
+          background-image: url(https://raw.githubusercontent.com/premvaidya/svweb/main/web%20site%20time%20pass/Image/2.jpg);
           background-repeat: no-repeat;
           background-size: cover;
         }
         50%{
-          background-image: url(image/3.jpg);
+          background-image: url(https://raw.githubusercontent.com/premvaidya/svweb/main/web%20site%20time%20pass/Image/3.jpg);
           background-repeat: no-repeat;
           background-size: cover;
         }
         75%{
-          background-image: url(image/4.jpg);
+          background-image: url(https://raw.githubusercontent.com/premvaidya/svweb/main/web%20site%20time%20pass/Image/4.jpg);
           background-repeat: no-repeat;
           background-size: cover;
         }
         100%{
-          background-image: url(image/5.jpg);
+          background-image: url(https://raw.githubusercontent.com/premvaidya/svweb/main/web%20site%20time%20pass/Image/5.jpg);
           background-repeat: no-repeat;
           background-size: cover;
         }
