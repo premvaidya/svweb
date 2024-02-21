@@ -1,23 +1,9 @@
-# Welcome to My Website!
+<h1 align="center" id="title">WellCome</h1>
 
-This is my personal website, hosted on GitLab Pages.
+<p align="center"><img src="https://github.com/premvaidya/svweb/blob/main/saransh%20vaidya/images/webimage.PNG?raw=true" alt="project-image"></p>
 
-## About Me
+<p id="description">Welcome to <b>SVWEB</b> where <i>my portfolio and my project or work</i>. Explore a frontend project mini games Design etc. collection of HTML javasript css react js DSA etc. looking for [specific content or solutions] or simply a [enthusiast or interested individual] seeking [relevant information or entertainment] you've come to the right place.</p>
 
-My name is John Doe, and I am a software developer.
+<h2>🚀 Demo</h2>
 
-## My Projects
-
-Here are some of my latest projects:
-
-- [Project 1](https://github.com/john_doe/project1)
-- [Project 2](https://github.com/john_doe/project2)
-- [Project 3](https://github.com/john_doe/project3)
-
-## Contact Me
-
-If you want to get in touch with me, you can email me at john.doe@example.com.
-
-## License
-
-This website is licensed under the MIT License.
+[https://premvaidya.github.io/svweb/]( https://premvaidya.github.io/svweb/)
