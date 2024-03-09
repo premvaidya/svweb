@@ -8,9 +8,5 @@
 
 [https://premvaidya.github.io/svweb/]( https://premvaidya.github.io/svweb/)
 
-<h2 class="all"> project location </h2>
-<style>
-  .all {
-    background-color: red;
-    }
-</style>
+<h2>🐧Project location or Live Preview✨</h2>
+<h2>📁Project Soures Code🪄</h2>
