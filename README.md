@@ -7,3 +7,9 @@
 <h2>🚀 Demo</h2>
 
 [https://premvaidya.github.io/svweb/]( https://premvaidya.github.io/svweb/)
+
+<h2 class="all"> project location </h2>
+<style>
+  .all {
+    colour: red;
+</style>
