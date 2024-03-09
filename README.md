@@ -11,5 +11,6 @@
 <h2 class="all"> project location </h2>
 <style>
   .all {
-    colour: red;
+    background-color: red;
+    }
 </style>
