@@ -8,21 +8,21 @@ body{
   /* background-image: url(https://w0.peakpx.com/wallpaper/484/211/HD-wallpaper-blended-nice-blue-color-pink-purple-quality-themes-thumbnail.jpg); */
   background-repeat: no-repeat;
   background:
-        linear-gradient(
-            rgb(255, 255, 255),
-            transparent
-        ),
-        linear-gradient(
-            -45deg,
-            rgb(255, 94, 0),
-            transparent
-        ),
-        linear-gradient(
-            45deg,
-            rgb(201, 97, 37),
-            /* orange, */
-            transparent
-        );
+  linear-gradient(
+    rgb(255, 255, 255),
+    transparent
+),
+linear-gradient(
+    -45deg,
+    rgb(255, 152, 92),
+    transparent
+),
+linear-gradient(
+    45deg,
+    rgb(228, 138, 86),
+    /* orange, */
+    transparent
+);
     background-blend-mode: screen;
     background-attachment: fixed;
   background-position: center;
@@ -194,9 +194,6 @@ a {
 }
 .subox {
   margin-top: 20px;
-  padding-left: 10px;
-  padding-right: 10px;
-  /* background-color: red; */
   height: 30px;
   width: 100%;
   display: flex;
@@ -205,7 +202,7 @@ a {
 input {
   width: 100px;
   height: 40px;
-  --c:  #229091; /* the color*/
+  --c:  #229091;
   box-shadow: 0 0 0 .1em inset var(--c); 
   --_g: linear-gradient(var(--c) 0 0) no-repeat;
   background: 
@@ -230,11 +227,10 @@ input {
   font-family: system-ui, sans-serif;
   font-size: 20px;
   cursor: pointer;
-  /* padding: 0px; */
+  padding: 0px;
   font-weight: bold;  
   border: none;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
+  border-radius: 10px;
 }
 ::-webkit-scrollbar {
   width: 0px;
